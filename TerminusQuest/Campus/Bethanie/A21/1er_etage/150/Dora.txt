@@ -1,0 +1,5 @@
+Tu viens explorer avec moi ? ! Apprenons l’anglais
+tout en s’amusant ! Il y a un objet caché dans cette salle, mais je n’arrive pas à
+le trouver. Peux-tu le retrouver et me dire comment il est nommé s’il te plait ?
+Utilise le manuel de la commande ls pour t’aider ! Pour afficher le nom jette un
+oeil à la commande echo ...

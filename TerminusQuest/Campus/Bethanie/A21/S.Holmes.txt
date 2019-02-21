@@ -1,0 +1,6 @@
+Hello, welcome to the Centre des Langues, let’s resolve a little
+colundrum. Look at the paper behind me. There are tons of names but only one
+corresponds to yours. Try to find it using the grep command. You can use it this
+way : cat name_list | grep <something>. With that pipe (|), grep is using the
+result of the command before the pipe. You can use the manual of grep to get
+more information (man grep).

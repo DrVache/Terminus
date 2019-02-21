@@ -1,0 +1,8 @@
+Bonjooooouur. Bienvenu dans le monde merveilleux
+d’A. Dibou, plus communément appelé "Guichet unique". Je vais t’apprendre
+à utiliser ton inventaire pour que tu aies facielement accès aux objets que tu
+souhaites conserver. Ton inventaire se situe dans le Baitment A22, pour te simplifier la tâche tu peux y accéder en utilisant $INVENTAIRE. On appelle cela
+une variable d’environnement, elle te permettra d’accéder à ton inventaire où
+que tu sois. Pour déplacer un objet dans ton inventaire, il te suffit d’utiliser la
+commande mv<objet>$INVENTAIRE pour déplacer l’objet dans ton inventaire.
+Souviens toi, les objets sont représentés par la couleur blanche.

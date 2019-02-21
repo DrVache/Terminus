@@ -1,0 +1,3 @@
+Si tu veux récupérer des fichiers de ta session à partir d’ici, tu
+peux utiliser la commande ssh. Elle est à utiliser comme ceci : ssh <nom du
+joueur>name_machine.emi.u-bordeaux.fr.

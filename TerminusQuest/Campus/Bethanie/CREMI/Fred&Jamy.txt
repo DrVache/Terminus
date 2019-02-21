@@ -1,0 +1,22 @@
+<Fred> : Aujourd’hui, je me trouve avec un élève de l’Université informatique
+de Bordeaux. Il va devoir créer son compte sur l’ENT ! Mais dis-moi Jamy ? C’est
+quoi un ENT ?
+<Jamy> : Eh bien tu vois Fred, c’est très simple. Un ENT est une plateforme
+qui rassemble tous les membres de la communauté éducative d’une école. C’est
+le prolongement numérique de l’école, accessible 24h/24 et 7j/7. <Fred> : Mais
+c’est génial comme outil ! Tous les élèves devraient l’utiliser au quotidien !
+<Jamy> : En effet mon bon Fred, et ce n’est pas le seul avantage. Figures-toi
+que l’on peut y retrouver toutes les informations, outils et services numériques
+en rapport avec leurs activités éducatives.
+<Fred> : Je vais m’en créer un de ce pas !
+<Jamy> : Je ne pense pas que tu aies les documents nécessaires à sa création.
+En effet, pour créer son ENT, il te daudra donner un numéro étudiant valide
+... Tu es un peu trop vieux pour ça malheureusement ! Pas comme notre nouvel
+ami, qui lui peut se créer un compte !
+N’oublie pas de copier le lien du site dans ton mémo "liens_utiles" situé dans
+ton inventaire, tu devras le faire à chaque fois d’un lien te sera présenté !
+Pour se faire, tu peux utiliser ce genre de commande (cat fichier » destination ).
+Cette commande (») permet d’ajouter le résultat de la première commande à la
+fin du fichier destination. Mais fait attention, si tu ne mets que " > " ton fichier
+sera écrasé ...
+Allez Marcel, en route !
