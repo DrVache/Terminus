@@ -1,18 +1,21 @@
 #!/bin/bash
 
-pip install butterfly>prérequis.txt
-pip install docker>>prérequis.txt
-butterfly.server.py --generate-certs --host=$(hostname)>certificat.txt
-butterfly.server.py --generate-user-pkcs=$(whoami)>>certificat.txt
-cp /net/cremi/$(whoami)/.config/butterfly/ssl/$(whoami).p12 /tmp>>certificat.txt
-chown $(whoami) /tmp/$(whoami).p12>>certificat.txt
-cp /net/cremi/$(whoami)/.config/butterfly/ssl/butterfly_ca.crt /tmp>>certificat.txt
+mkdir Installation
+virtualenv butterfly>Installation/prérequis.txt 2>&1
+source butterfly/bin/activate
+pip install butterfly>>Installation/prérequis.txt
+pip install docker>>Installation/prérequis.txt
+butterfly.server.py --generate-certs --host=$(hostname)>Installation/certificat.txt
+butterfly.server.py --generate-user-pkcs=$(whoami)>>Installation/certificat.txt
+cp /net/cremi/$(whoami)/.config/butterfly/ssl/$(whoami).p12 /tmp>>Installation/certificat.txt
+chown $(whoami) /tmp/$(whoami).p12>>Installation/certificat.txt
+cp /net/cremi/$(whoami)/.config/butterfly/ssl/butterfly_ca.crt /tmp>>Installation/certificat.txt
 echo '
 Dans les paramètres avancées du navigateur, importer le nouveau certificat dans vos paramétres HTTPS/SSL :
 /tmp/butterfly_ca.crt dans autorités
 /tmp/'$(whoami)'.p12 dans vos certificats.
 Appuyer sur Entrée quand vous avez terminer'
-google-chrome chrome://settings/certificates>ouverture_chrome.txt 2>&1 &
+google-chrome chrome://settings/certificates>Installation/ouverture_chrome.txt 2>&1 &
 read  inutile
 rm /tmp/$(whoami).p12
 echo '<!DOCTYPE HTML>
@@ -44,6 +47,6 @@ echo '<!DOCTYPE HTML>
 </body>
 </html>
 '>index.html
-google-chrome https://$(hostname).emi.u-bordeaux.fr:57575/>>ouverture_chrome.txt 2>&1 &
+google-chrome https://$(hostname).emi.u-bordeaux.fr:57575/>>Installation/ouverture_chrome.txt 2>&1 &
 google-chrome index.html 2>&1 &
 butterfly.server.py --host=$(hostname) --port=57575 --login
