@@ -10,3 +10,4 @@ read cdutil
 cd ${cdutil:2}
 done
 
+exit
