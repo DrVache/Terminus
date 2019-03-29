@@ -1,10 +1,10 @@
-Bonjour le nouveau, comment ça va ? Alors, il est psa génial le
-début de ce jeu ? Prêt pour une aventure de folie ? Très bien, je ne peux pas
-entendre ta réponse mais je suis sûr que tu t’éclates déjà. Pour commencer ce
-voyage palpitant, choisis ton premier poke... Ah mince, je me suis trompé de jeu.
-J’ai régressé dans le métier de PNJ pour arriver dans un jeu pareil après mon
-précédent job... Reprenons.
-Utilise la commande help pour voir toutes les commandes à ta disposition.
-Utilise la commande cd pour te déplacer aux lieux alentours ( de couleur bleue,
-lorsque tu fais ls). Surtout, n’oublie pas de lancer la quête ( de couleur rouge
-lorsque tu fais ls) en faisant ./la_traversée_éternelle.sh.
+Bonjour le nouveau, comment Ã§a va ? Alors, il est psa gÃ©nial le
+dÃ©but de ce jeu ? PrÃªt pour une aventure de folie ? TrÃ¨s bien, je ne peux pas
+entendre ta rÃ©ponse mais je suis sÃ»r que tu tâ€™Ã©clates dÃ©jÃ . Pour commencer ce
+voyage palpitant, choisis ton premier poke... Ah mince, je me suis trompÃ© de jeu.
+Jâ€™ai rÃ©gressÃ© dans le mÃ©tier de PNJ pour arriver dans un jeu pareil aprÃ¨s mon
+prÃ©cÃ©dent job... Reprenons.
+Utilise la commande help pour voir toutes les commandes Ã  ta disposition.
+Utilise la commande cd pour te dÃ©placer aux lieux alentours ( de couleur bleue,
+lorsque tu fais ls). Surtout, nâ€™oublie pas de lancer la quÃªte ( de couleur rouge
+lorsque tu fais ls) en faisant ./la_traversÃ©e_Ã©ternelle.sh.
