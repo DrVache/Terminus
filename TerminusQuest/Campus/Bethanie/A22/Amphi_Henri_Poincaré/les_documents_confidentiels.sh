@@ -1,13 +1,16 @@
 #!/bin/bash
-
-
 echo "Pour valider cette quête, tu dois te rendre au guicher unique en A22 et trouver
 ce qui t’appartient, une autre quête t’y attendra..."
-
-while  [${PWD##*/}=!guichet_unique]
+while [ true ]
 do
 read cdutil
-cd ${cdutil:2}
-done
+cd ${cdutil:3}
 
-exit
+echo ${PWD##*/}
+if [ ${PWD##*/} = "guichet_unique" ]
+then
+	echo "fini"
+	exit
+fi
+
+done
