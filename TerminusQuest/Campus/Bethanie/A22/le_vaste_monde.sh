@@ -28,10 +28,7 @@ case $cdutil in
 				        elif [ ${cdutil:0:3} = "cat" ]
 				        then
 					          cat ${cdutil:4}
-				        elif [ ${cdutil:0:2} = "mv" ]
-						then
-							mv ${cdutil:3}
-						fi
+				        fi
                 ;;
 esac
 done
