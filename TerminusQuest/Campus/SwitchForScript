@@ -22,3 +22,6 @@ case $cdutil in
 				        fi
                 ;;
 esac
+
+#add different chmod for new quest or directory
+#add "exec $SHELL" at the end to go on current path on the main shell
