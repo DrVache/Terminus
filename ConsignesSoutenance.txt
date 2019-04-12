@@ -25,3 +25,11 @@ temps de parole +/- equivalent
 
 fAIRE ATTNETION AU répetions entre le discours des differentes personne
 Faire 1 ou 2 Test (avec chronometre!)
+
+
+Intro : Duncan 
+Fonctionnement / Dépendance : Florian
+Butterfly / Begin / Installation : Diane
+Bash / switch : Luka 
+Gantt / Alternative : Luka 
+Conclusion : Duncan
