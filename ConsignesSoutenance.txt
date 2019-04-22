@@ -30,6 +30,20 @@ Faire 1 ou 2 Test (avec chronometre!)
 Intro : Duncan 
 Fonctionnement / Dépendance : Florian
 Butterfly / Begin / Installation : Diane
-Bash / switch : Luka 
+Bash / switch : Thibault 
 Gantt / Alternative : Luka 
 Conclusion : Duncan
+
+
+Diapo 1 : Présentation du groupe 
+Diapo 2 : Présentation du sujet ( "Terminus 
+Aider les nouveaux étudiants à se déplacer dans l'Université"
+"On a décidé de le faire sur un site Web avec un bash " + photo Butterfly )
+Diapo 3 : Fonctionnement du jeu ( Récompense ) 
+Diapo 4 : Arbres des dépendances 
+Diapo 5.1 -> 5.x : Projet ( Bash / Switch / Butterfly ) 
+Diapo 6 : 1ères idées / Alternatives ( Difficulté ) + Tests 
+Diapo 7 : Gantt prévi + réels 
+Diapo 8 : Bilan CDC vs réalité 
+Diapo 9 : D9 : Amélioration 
+Diapo 10 : Conclusion
