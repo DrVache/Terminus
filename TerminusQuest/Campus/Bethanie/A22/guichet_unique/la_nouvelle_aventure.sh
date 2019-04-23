@@ -24,5 +24,47 @@ Champs de la fiche de laison à remplir :
 Nom, Prénom, Numéro d’étudiant, Nationalité, Adresse, Nom de l’entreprise
 d’acceuil, Activité de l’entreprise d’acceuil, Nom du maître de stage, Nom du
 représentant de l’Université, Thématique du stage.
-PS : Dans notre arborescence nous avons placé un ordinateur ("fellow") à titre
+PS : Dans notre arborescence nous avons placé un ordinateur (ordi.txt) à titre
 d’exemple, mais chaque salle en contient une 10aine."
+
+echo "Une fois que vous avez correctement remplie la fiche, signer la avec X---X a la fin "
+
+while [ true ]
+do
+	read cdutil
+case $cdutil in
+
+        "ls") #Rajouter l option -l ?
+                ls
+                ;;
+		   "INVENTAIRE")  #avec "$" devant comme dans le cahier des charges, rien ne se passe
+                echo "Hé Jean2, ça va ?"
+                ;;	
+	  	 "jobs")
+               jobs
+                ;;		
+        *)
+                if [ ${cdutil:0:2} = "cd" ]
+				        then
+					         cd ${cdutil:3}
+				        elif [ ${cdutil:0:3} = "cat" ]
+				        then
+					          cat ${cdutil:4}
+				        fi
+                ;;
+esac
+
+if [ -f "/net/cremi/tmaziere/Bureau/Terminus-master/TerminusQuest/Campus/Bethanie/A22/inventaire/fiche_de_liaison.txt" ];
+then
+		echo "fiche de liaison dans votre inventaire"
+fi
+cat /net/cremi/tmaziere/Bureau/Terminus-master/TerminusQuest/Campus/Bethanie/A22/inventaire/fiche_de_liaison.txt
+if(cat /net/cremi/tmaziere/Bureau/Terminus-master/TerminusQuest/Campus/Bethanie/A22/inventaire/fiche_de_liaison.txt | grep "X---X")
+then
+echo "fiche signée"
+	exec $SHELL
+fi
+done
+
+#add different chmod for new quest or directory
+#add "exec $SHELL" at the end to go on current path on the main shell
