@@ -25,8 +25,8 @@ case $cdutil in
 					         cd ${cdutil:3}
 				        elif [ ${cdutil:0:3} = "cat" ]
 				        then
-					          #cat ${cdutil:4}
-						$($cdutil)
+					          cat ${cdutil:4}
+						#$($cdutil)
 					elif [ $cdutil = $numetu ]
 					then
 						echo "compte cree"
