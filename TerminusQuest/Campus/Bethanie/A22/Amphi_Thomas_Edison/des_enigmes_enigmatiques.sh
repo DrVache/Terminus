@@ -19,17 +19,17 @@ case $cdutils in
 
 
   "faculté")
-  echo "Bien joué ! Tu as gagné la clef !"
+  echo "Bien joué !"
   exit
   ;;
   "Faculté")
-  echo "Bien joué ! Tu as gagné la clef !"
+  echo "Bien joué !"
   exit
   ;;
 
   *)
-  echo "Le sablier arrive bientôt à sa fin,
-  Pour avoir la clef il te faut être malin."
+  echo "Essaye encore,
+  Il te faut être malin."
   
   ;;
 
