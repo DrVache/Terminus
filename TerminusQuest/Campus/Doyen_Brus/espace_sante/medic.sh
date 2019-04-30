@@ -24,7 +24,7 @@ case $cdutils in
         read cdutils
         if [ "$cdutils" = "S" ] || [ "$cdutils" = "s" ]
         then
-          echo "Bravo, voici ton certificat !"
+          echo "Bravo!"
           exit
         else
           echo "Désolé, mais tu n’as pas l’air en forme, réessaie plus tard."
