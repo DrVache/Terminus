@@ -14,6 +14,12 @@ case $cdutil in
 	  	 "jobs")
                jobs
                 ;;
+		"cat hidden")
+			 echo "Vous y êtes presque !"
+			;;
+		"hidden")
+			echo "Vous y êtes presque !"
+			;;
 				".hidden")
 					echo "Oui c'est bien celui là ! We did it ! Hourra ! Hidden signifie caché"	
 					exit
