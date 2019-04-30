@@ -1,8 +1,7 @@
 #!/bin/bash
 
-echo "Le but de cette quête est de piéger le joueur dans un endroit où on lui
-dit de ne pas se rendre. La commande yes est une boucle infinie, pour en sortir
-il faut utiliser CTRL + C."
+echo "Alors, que fait cette commande yes ?
+*haahah *rire démoniaque*"
 
 while [ true ]
 do
