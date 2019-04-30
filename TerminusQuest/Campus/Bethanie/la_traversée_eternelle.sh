@@ -11,10 +11,7 @@ case $cdutil in
                 ;;
 		   "INVENTAIRE")  #avec "$" devant comme dans le cahier des charges, rien ne se passe
                 echo "Hé Jean2, ça va ?"
-                ;;	
-	  	 "jobs")
-               jobs
-                ;;		
+                ;;			
         *)
                 if [ ${cdutil:0:2} = "cd" ]
 				        then
@@ -28,7 +25,9 @@ esac
 
 if [ ${PWD##*/} = "Amphi_Henri_Poincaré" ]
 		then
-		echo "fini"
-		exit
+		echo "Quête terminée !"
+		chmod 700 .les_documents_confidentiels.sh
+		mv .les_documents_confidentiels.sh  les_documents_confidentiels.sh
+		exec $SHELL
 	fi
 done
