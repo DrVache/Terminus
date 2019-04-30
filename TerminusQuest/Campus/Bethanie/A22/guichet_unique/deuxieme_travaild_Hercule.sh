@@ -41,12 +41,42 @@ case $cdutils in
           echo "Mme.PommeVert : Tu souhaites ton attestation de responsabilité civile"
           echo "Mme.PommeVert : Donnes moi ton numéro d'étudiant que je le retrouve"
           read cdutils
-          if [ "$cdutils" = "2142148" ]
+          if [ "$cdutils" = "21812345" ]
             then
               echo "Mme.PommeVert : Le voici, tu peux dorénavant le voir avec ls"
-              echo "Mme.PommeVert : Mais penses à le déplacer dans ton inventaire (mv)"
-              echo "Mme.PommeVert : Bonne journée"
+              echo "Mme.PommeVert : Penses à le déplacer dans ton inventaire (mv)"
               touch attestation_de_responsabilite_civile.txt
+              lienutile=$(<~/Projet_com/Terminus/TerminusQuest/Campus/Bethanie/A22/guichet_unique/attestation_de_responsabilite_civile.txt)
+
+              while [ true ]
+              do
+              read cdutils
+              case $cdutils in
+                "ls")
+                ls
+                ;;
+                *)
+                if [ "$cdutils" = "mv attestation_de_responsabilite_civile.txt ../inventaire" ]
+                then
+                  exec mv attestation_de_responsabilite_civile.txt ../inventaire
+                  echo "Mme.PommeVert : Bonne journée"
+                  exit
+                else
+                  echo " Tu t'es trompé dans la formulation du déplament ( Rappel : mv fichier destination)"
+                fi
+
+              esac
+            done
+
+
+
+
+
+
+
+              exit
+            else
+              echo "Reviens me voir quand tu auras retrouvé ton numéro d'étudiant"
               exit
             fi
           fi
