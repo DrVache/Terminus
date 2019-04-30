@@ -1,8 +1,6 @@
-Bienvenu. Bienvenu à tous pour cette nouvelle année à la faculté informatique
-de Bordeaux. Au cours de cette année, vous devez résoudre un maximum de
-Quêtes. Vous pouvez naviguer dans toute l’Univeristé grâce à la commande cd.
-Le répertoire parent est accessible par "..". Utilisez la pour revenir en A22 par
-exemple ! Par contre ne va jamais au 3ème étage du CREMI, c’est formellement
-interdit, tu pourrais mourir dans d’atroces souffrances ! Si une quête est trop
-dure, vous pouvez la laisser de côté en la quittant grâce à la commande exit.
-Vous pourrez la reprendre plus tard.
+Bienvenu. Bienvenu Ã  tous pour cette nouvelle annÃ©e Ã  la facultÃ© informatique
+de Bordeaux. Au cours de cette annÃ©e, vous devez rÃ©soudre un maximum de
+QuÃªtes. Vous pouvez naviguer dans toute lÂ’UniveristÃ© grÃ¢ce Ã  la commande cd.
+Le rÃ©pertoire parent est accessible par "..". Utilisez la pour revenir en A22 par
+exemple ! Par contre ne va jamais au 3Ã¨me Ã©tage du CREMI, cÂ’est formellement
+interdit, tu pourrais mourir dans dÂ’atroces souffrances !
