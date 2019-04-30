@@ -1,5 +1,0 @@
-Maintenant
-que tu sais utiliser ton inventaire, je te conseille d’aller voir ton armoire des
-trophées. Tu pourras y trouver tous les trophées que tu gagneras au fil de ton
-année universitaire ! Pour voir les quêtes en cours tu peux utiliser la commande
-jobs.
