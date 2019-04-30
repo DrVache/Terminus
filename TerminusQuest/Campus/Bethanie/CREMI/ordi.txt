@@ -1,0 +1,3 @@
+Nom, Prénom, Numéro d’étudiant, Nationalité, Adresse, Nom de l’entreprise
+d’acceuil, Activité de l’entreprise d’acceuil, Nom du maître de stage, Nom du
+représentant de l’Université, Thématique du stage.
