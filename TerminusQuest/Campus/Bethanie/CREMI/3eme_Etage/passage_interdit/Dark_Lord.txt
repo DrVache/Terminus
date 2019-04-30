@@ -1,8 +1,3 @@
-Il n’y a pas de bien ni de mal, il n’y a que le pouvoir, et ceux
+Il nâ€™y a pas de bien ni de mal, il nâ€™y a que le pouvoir, et ceux
 qui sont trop faibles pour le rechercher... Si tu veux gagner du pouvoir, essaie la
-commande yes avec un mot de ton choix derrière.
-Lancement de la quête :
-Lance le sort de ton choix
-PS : Le but de cette quête est de piéger le joueur dans un endroit où on lui
-dit de ne aps se rendre. La commande yes est une boucle infinie, pour en sortir
-il faut utiliser CTRL + C.
+commande yes avec un mot de ton choix derriÃ¨re.
