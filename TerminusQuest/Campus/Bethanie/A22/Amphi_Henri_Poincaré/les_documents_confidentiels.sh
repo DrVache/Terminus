@@ -13,8 +13,8 @@ case $cdutil in
 		 "INVENTAIRE")
                 echo "Voila l'inventaire (a compléter)"
                 ;;	
-		 "jobs")
-               jobs
+		 "exit")
+               exit
                 ;;		
         *)
                 if [ ${cdutil:0:2} = "cd" ]
@@ -29,7 +29,10 @@ esac
 #echo ${PWD##*/}
 if [ ${PWD##*/} = "guichet_unique" ]
 		then
-		echo "fini"
-		exit
+		echo "Quête terminée !"
+		chmod 700 .le_rangement_IKEA.sh
+		mv .le_rangement_IKEA.sh le_rangement_IKEA.sh
+		mv .A.Dibou.txt A.Dibou.txt
+		exec $SHELL
 	fi
 done
