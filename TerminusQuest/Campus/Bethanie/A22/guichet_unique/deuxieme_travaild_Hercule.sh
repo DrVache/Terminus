@@ -46,7 +46,7 @@ case $cdutils in
               echo "Mme.PommeVert : Le voici, tu peux dorénavant le voir avec ls"
               echo "Mme.PommeVert : Penses à le déplacer dans ton inventaire (mv)"
               touch attestation_de_responsabilite_civile.txt
-              lienutile=$(<~/Projet_com/Terminus/TerminusQuest/Campus/Bethanie/A22/guichet_unique/attestation_de_responsabilite_civile.txt)
+              lienutile=$(</net/cremi/tmaziere/Bureau/Terminus-master/TerminusQuest/Campus/Bethanie/A22/guichet_unique/attestation_de_responsabilite_civile.txt)
 
               while [ true ]
               do
