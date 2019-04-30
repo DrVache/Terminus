@@ -1,2 +1,7 @@
- C�est une �nigme. "Parler ami et entrez". Quel est le mot elfique
+ Cest une énigme. "Parler ami et entrez". Quel est le mot elfique
 pour ami ?
+
+Répare le pont et traverse le à l’aide du mot de passe.
+Si on lance le script sans argument le message suivant est affiché : Ce script se
+lance avec un arguement, ajoute le mot de passe pour le lancer.
+Si le mot de passe est mauvais : "...""
