@@ -2,7 +2,7 @@
 
 
 echo "Retrouve ton groupe d’anglais grâce à ton nom.
-PS : Le fichier groupes_de_langue contient une centaine de nom avec le groupe
+PS : Le fichier groupes_de_langue.txt contient une centaine de nom avec le groupe
 correspondant à chaque étudiant."
 while [ true ]
 do
@@ -14,12 +14,12 @@ case $cdutil in
 		   "INVENTAIRE")  #avec "$" devant comme dans le cahier des charges, rien ne se passe
                 echo "Hé Jean2, ça va ?"
                 ;;	
-	  	 "jobs")
-               jobs
+	  	 "man grep")
+               man grep
                 ;;
 				"cat groupes_de_langue | grep login")
 				echo "Voici ton groupe : "
-				cat groupes_de_langue | grep login
+				cat groupes_de_langue.txt | grep login
 				exit
 				;;
 	*)
