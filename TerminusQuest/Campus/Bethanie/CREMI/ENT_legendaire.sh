@@ -4,7 +4,11 @@ PS : Le numéro ENT est contenu dans le fichier carte_etudiante."
 numetu=$(<../A22/inventaire/carte_etudiante.txt)
 #lienutile=$(<../A22/inventaire/lien_utile.txt)
 lienent=$(<lien_ent.txt)
+lienutile=""
 res=false
+cd ../A22/inventaire
+touch lien_utile.txt
+cd ../../CREMI
 while [ true ]
 do
 	read cdutil
@@ -26,7 +30,6 @@ case $cdutil in
 				        elif [ ${cdutil:0:3} = "cat" ]
 				        then
 					          cat ${cdutil:4}
-						#$($cdutil)
 					elif [ $cdutil = $numetu ]
 					then
 						echo "compte cree"
@@ -35,13 +38,13 @@ case $cdutil in
                 ;;
 esac
 
-lienutile=$(</net/cremi/tmaziere/Bureau/Terminus-master/Terminus-master/TerminusQuest/Campus/Bethanie/A22/inventaire/lien_utile.txt)
+lienutile=$(</net/cremi/tmaziere/Bureau/Terminus-master/TerminusQuest/Campus/Bethanie/A22/inventaire/lien_utile.txt)
 
 
 
 if [ "$lienutile" = "$lienent" ] && [ "$res" = "true" ]
 then
-	echo "lien correcte jouté"
+	echo "lien correcte ajouté"
 	exec $SHELL
 fi
 
