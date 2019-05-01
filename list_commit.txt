@@ -1,0 +1,521 @@
+commit 2c8918a5af283e70f8a6fae969bf3b1fb96b4e5a
+Author: Diane Montiel <dmontiel@emi.u-bordeaux1.fr>
+Date:   Wed May 1 11:32:42 2019 +0200
+
+    inventaire
+
+commit e27bfc06ba682c8b08e50f1e5ff2f4db35014573
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 17:06:21 2019 +0200
+
+    Update les_constructeurs_de_l_extreme.sh
+
+commit 9088670ee9ff7f2b7cdaed3d3a6204d4a7fd771d
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 17:05:56 2019 +0200
+
+    Update Gandalf.txt
+
+commit e8585de3350fa4bfe1976608082b04f8c402102b
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 17:05:36 2019 +0200
+
+    Update Frodon.txt
+
+commit bd960857b4878601437c8e605b6b021cf8aabc09
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 17:04:58 2019 +0200
+
+    Update ENT_legendaire.sh
+
+commit 98de7a42dad763a07cbbe04bebf8d95b9e25f579
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 17:04:18 2019 +0200
+
+    Create lien_ent.txt
+
+commit 158a22d15b097bbac9e7af36083211e8e723d81a
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 17:03:49 2019 +0200
+
+    Create ordi.txt
+
+commit a0e20059679096da5de0ddce95e721c53ae6b848
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 17:03:00 2019 +0200
+
+    Update power.sh
+
+commit c73ef9a20ced764830c3c57f7745dc08ff3b11e2
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 17:02:41 2019 +0200
+
+    Update Dark_Lord.txt
+
+commit d09bebb792aff15d59ffbbf1c4a8fa4bf2ddcc1f
+Author: Thibaut Maziere <tmaziere@emi.u-bordeaux1.fr>
+Date:   Tue Apr 30 17:00:50 2019 +0200
+
+    Salut
+
+commit 98a78ab3fee833435624d79a52e87c11a8bd3daf
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:58:21 2019 +0200
+
+    Delete A.Dibou.txt
+
+commit cf90b44165aa6436f8dcb6ebeed1e2ba3a6131dc
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:58:02 2019 +0200
+
+    Add files via upload
+
+commit 2f3889d36d2204545a3deaf86103c199c88b4829
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:56:51 2019 +0200
+
+    Delete armoire_des_trophées.sh
+
+commit d9265d79d638297801bfe18a4ca9bb5ea32429cb
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:56:45 2019 +0200
+
+    Delete A.Dibou.txt
+
+commit 381f0fdc171d1d80a45c9e9fa92f0dbee06c454f
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:53:26 2019 +0200
+
+    Create le_rangement_IKEA.sh
+
+commit 033d641e3b24416f12ec077ea71b1ac00f5cfae8
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:52:04 2019 +0200
+
+    Update le_road_trip_des_signatures.sh
+
+commit 9c50a6c5bb42cca0fb051951b750e8004cabfe52
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:51:24 2019 +0200
+
+    Update la_nouvelle_aventure.sh
+
+commit 5d8932c130b3828697d0c8ba6ef94860ec606c6c
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:44:19 2019 +0200
+
+    Update deuxieme_travaild_Hercule.sh
+
+commit cdc9203794e39b604431eec2a6597823d28dea2a
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:43:38 2019 +0200
+
+    Update Indiana_Jones.txt
+
+commit e32cd9046f1cec8352287a333268dd50d28e48f3
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:42:09 2019 +0200
+
+    Update des_enigmes_enigmatiques.sh
+
+commit 64e608ca55151099616de5521b85d7da21c20852
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:41:29 2019 +0200
+
+    Update les_documents_confidentiels.sh
+
+commit 83741bf9d4d94a41730ca505d79d4f01e3909b99
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:41:02 2019 +0200
+
+    Update A.Dumbledore.txt
+
+commit 23b351719bd3ffc42c6911dff8b193dd74d77c01
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:39:58 2019 +0200
+
+    Rename prendre_rdv to prendre_rdv.txt
+
+commit cd6e31372ad5a417387f6636e40ee6c9b6d7964f
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:39:20 2019 +0200
+
+    Update la_decision_decisive.sh
+
+commit 24a943a423212eba97b3990a3da65f893e461e80
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:38:37 2019 +0200
+
+    Update I_love_English.sh
+
+commit 2105a3dd454e63f777e3894749405cd7bee69d6c
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:38:14 2019 +0200
+
+    Update Dora.txt
+
+commit 7f4e93f6bb2ce732eceaf185f0dd8b28f8a6ee37
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:34:16 2019 +0200
+
+    Update la_recherche_interminable.sh
+
+commit 4d4d6dcef27331f5d251938320668b94c9227ef1
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:33:52 2019 +0200
+
+    Update groupes_de_langue
+
+commit dc408c82c6fff9cbdddce9c17312c7490df1d218
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:33:31 2019 +0200
+
+    Create Representant_legal.txt
+
+commit 36c104ddcde58d5b550f1e8974581ba542e563c9
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:33:06 2019 +0200
+
+    Update Pr.Chen.txt
+
+commit 4c57154a679422913fe6b16f7397f16287b060c3
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 30 16:30:16 2019 +0200
+
+    Update la_traversée_eternelle.sh
+
+commit 9243209ed4512a6a97cb85202c454d71ad240117
+Author: FlorianGardes <fl.gardes@yahoo.fr>
+Date:   Tue Apr 30 13:54:10 2019 +0200
+
+    Modif Certificat
+
+commit 6f86ca502b62c0dd7592fecf72873cbe5c62bb45
+Merge: 51d32c4 be30287
+Author: FlorianGardes <fl.gardes@yahoo.fr>
+Date:   Tue Apr 30 13:41:40 2019 +0200
+
+    Merge branch 'master' of https://github.com/DrVache/Terminus
+
+commit 51d32c4e9a2f2104cd18ff169da5fb1593a6af47
+Author: FlorianGardes <fl.gardes@yahoo.fr>
+Date:   Tue Apr 30 13:40:11 2019 +0200
+
+    2ème travaux d'hercule avec chemin
+
+commit be30287fe9e0592f14dc9106a7ba26e3d5188715
+Author: DuncanBlareau <47028947+DuncanBlareau@users.noreply.github.com>
+Date:   Sun Apr 28 13:58:54 2019 +0200
+
+    Create DIAPO
+
+commit e26a9c70d4c66a4e4d5530e3d12703b79c869f44
+Author: DuncanBlareau <47028947+DuncanBlareau@users.noreply.github.com>
+Date:   Sun Apr 28 13:56:05 2019 +0200
+
+    Add files via upload
+
+commit 89f00a0198df4db76c032a1ad14d9a82391fd9eb
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 23 15:27:03 2019 +0200
+
+    Update la_nouvelle_aventure.sh
+
+commit 1f956c0bb49d158c7ce493b58d6446c8116aa705
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 23 13:51:52 2019 +0200
+
+    Update les_constructeurs_de_l_extreme.sh
+
+commit cb267699c01253f47c415784efebfc9dce83891f
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Tue Apr 23 12:04:19 2019 +0200
+
+    Update ENT_legendaire.sh
+
+commit e6e0ff49c88c35f5a00c4724d406107c82391eb9
+Author: FlorianGardes <fl.gardes@yahoo.fr>
+Date:   Mon Apr 22 18:06:56 2019 +0200
+
+    Certificat à completer
+
+commit 7f3ce6257b6cbc970540813ad46f0f89b5bfbc7d
+Merge: 9503507 6c85f7a
+Author: FlorianGardes <fl.gardes@yahoo.fr>
+Date:   Mon Apr 22 17:46:47 2019 +0200
+
+    Merge branch 'master' of https://github.com/DrVache/Terminus
+
+commit 95035071d96ca44886f33ff42124f4392420742c
+Author: FlorianGardes <fl.gardes@yahoo.fr>
+Date:   Mon Apr 22 17:44:29 2019 +0200
+
+    Medic propre
+
+commit 6c85f7a0cebb69b8b85f86187a6590357b7ddb8b
+Author: FlorianGardes <47028943+FlorianGardes@users.noreply.github.com>
+Date:   Mon Apr 22 17:25:11 2019 +0200
+
+    Ordre des diapo pour soutenace
+
+commit 3a135f866fb50d5ba8d6d68966bf5be9df3af637
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Fri Apr 12 12:23:32 2019 +0200
+
+    Update ENT_legendaire.sh
+
+commit 6fa0c6db5c7194d725776fb18353c2162c71cdbb
+Author: FlorianGardes <47028943+FlorianGardes@users.noreply.github.com>
+Date:   Fri Apr 12 11:58:29 2019 +0200
+
+    Update ConsignesSoutenance.txt
+
+commit 48a0d872a8c0cdc623ac02dee3f30af5c71ca0df
+Author: FlorianGardes <fl.gardes@yahoo.fr>
+Date:   Thu Apr 11 21:24:29 2019 +0200
+
+    enigmes enigmatique
+
+commit 1a8d16e7f18584eec37aca9980225979e4be7612
+Merge: 791791c 3e308c8
+Author: FlorianGardes <fl.gardes@yahoo.fr>
+Date:   Thu Apr 11 20:49:01 2019 +0200
+
+    ds
+    Merge branch 'master' of https://github.com/DrVache/Terminus
+
+commit 3e308c8d38ad46834ba4227286d4cfb1e93b7885
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Thu Apr 11 17:53:43 2019 +0200
+
+    Update I_love_English.sh
+
+commit 06cc77e506fe2fb3d8c87921f99ead9db22f9633
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Thu Apr 11 17:53:11 2019 +0200
+
+    Update la_decision_decisive.sh
+
+commit e6d304916d3ed0128b4b12e59e048f1cbf2a5fad
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Thu Apr 11 17:52:09 2019 +0200
+
+    Update la_recherche_interminable.sh
+
+commit 791791c26947e077ad52d31b3a062fce705c0684
+Author: FlorianGardes <fl.gardes@yahoo.fr>
+Date:   Thu Apr 11 16:36:55 2019 +0200
+
+    medic.sh à l'arrache
+
+commit ca26f42e3dc6ca27766264144a9dcd7878076dfd
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Fri Apr 5 11:48:41 2019 +0200
+
+    Rename ConsignesSoutenance to ConsignesSoutenance.txt
+
+commit c3c345bbba9c414c36fd3769a38bbc7105ec77f9
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Fri Apr 5 11:45:16 2019 +0200
+
+    Update ConsignesSoutenance
+
+commit 40365fe8663d7aaa7daac4e01074525c4e0ba0a6
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Fri Apr 5 11:37:13 2019 +0200
+
+    Create ConsignesSoutenance
+
+commit 208a69bb0ad36dc9c4072f81f36d8c333d53454a
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Fri Apr 5 10:01:27 2019 +0200
+
+    Update SwitchForScript
+
+commit 4fb48edd50d9d0ecbb542f23cc64cd24a3cb75ad
+Author: FlorianGardes <47028943+FlorianGardes@users.noreply.github.com>
+Date:   Tue Apr 2 12:02:05 2019 +0200
+
+    Update power.sh
+
+commit 1bc48dd49733fecdae8e8a271911445dcb43fc76
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Mon Apr 1 21:14:40 2019 +0200
+
+    Update power.sh
+
+commit 37fbc813dc240d2ed168523d4fa93da6826dc490
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Mon Apr 1 18:38:36 2019 +0200
+
+    Update le_vaste_monde.sh
+
+commit 90c342df67f98eb6cb7c425b433ada38c65fafa0
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Mon Apr 1 18:36:55 2019 +0200
+
+    Update le_vaste_monde.sh
+
+commit 14187b551ae6af1e8d9032a502e8371a387663e9
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Sat Mar 30 18:48:56 2019 +0100
+
+    Update le_rangement_IKEA.sh
+    
+    ATTENTION ! Changer le chemin en fonction de l'arborescence du projet
+
+commit 03767388f25a39391dcff318cc2bd750cafc0b3b
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Sat Mar 30 18:15:12 2019 +0100
+
+    Update la_traversée_eternelle.sh
+
+commit 255988b10b9f7df419843f145d3259b6ca3bcc39
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Sat Mar 30 17:44:11 2019 +0100
+
+    Update les_documents_confidentiels.sh
+
+commit c09dae6f4eee97f1be4a8df4a62d5ea327bce82e
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Sat Mar 30 17:36:43 2019 +0100
+
+    Create SwitchForScript
+
+commit 014145b3b337d8f33338c9235f78ff770f04b92b
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Fri Mar 29 10:20:46 2019 +0100
+
+    Update Pr.Chen.txt
+
+commit 6806acfb94242b2b3f4070cf82c3f7fc2f55d28d
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Fri Mar 29 10:20:28 2019 +0100
+
+    Update Pr.Ofaite.txt
+
+commit 0f0526dc300f1ca4af7db88292ed2be7c8d1619b
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Fri Mar 29 10:17:21 2019 +0100
+
+    Update les_documents_confidentiels.sh
+
+commit f16bd3f6782c691658919922600e7058631b98b0
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Fri Mar 29 08:57:44 2019 +0100
+
+    Update les_documents_confidentiels.sh
+
+commit e8e9dc353afd5633a288dcbb2f880773bf54242b
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Fri Mar 15 12:19:12 2019 +0100
+
+    Create DuncanThibaut
+
+commit 47183eca2182a7a4cba186584469e37ff7650e89
+Author: DuncanBlareau <47028947+DuncanBlareau@users.noreply.github.com>
+Date:   Fri Mar 15 12:11:31 2019 +0100
+
+    Add files via upload
+
+commit 58eacea1dfa9b7e43e4de0bd4834dc596002298d
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Fri Mar 15 12:03:12 2019 +0100
+
+    Update les_documents_confidentiels.sh
+
+commit 5e32d88d009e241735ee66f76bb892f5e13b1c49
+Author: DuncanBlareau <47028947+DuncanBlareau@users.noreply.github.com>
+Date:   Fri Mar 15 11:44:29 2019 +0100
+
+    Add files via upload
+
+commit 687c2fad74010c6c223fbcb3fa2629a73f39bfbe
+Author: DuncanBlareau <47028947+DuncanBlareau@users.noreply.github.com>
+Date:   Fri Mar 8 12:18:35 2019 +0100
+
+    Add files via upload
+
+commit 56b2aae5301912d07279e3545710f0592b4f0af0
+Author: DrVache <46820126+DrVache@users.noreply.github.com>
+Date:   Fri Mar 8 11:29:49 2019 +0100
+
+    Delete index.html
+
+commit 50dae65431203b65997539eda402d5336987d95c
+Author: DuncanBlareau <47028947+DuncanBlareau@users.noreply.github.com>
+Date:   Fri Mar 8 11:25:47 2019 +0100
+
+    Add files via upload
+
+commit fc5e640f908304e7e91e55706ae8d5a51dad37c0
+Author: DrVache <46820126+DrVache@users.noreply.github.com>
+Date:   Fri Mar 8 11:25:19 2019 +0100
+
+    Delete Test.sh
+
+commit 3326dcb8e1704bf48c6bd510c9c4abb803f98653
+Author: FlorianGardes <fl.gardes@yahoo.fr>
+Date:   Fri Mar 8 11:21:03 2019 +0100
+
+    ok
+
+commit 6cb3c78124ff4fb143f1dce0f5313485d6fd008f
+Author: Diane Montiel <dmontiel@emi.u-bordeaux1.fr>
+Date:   Fri Mar 8 11:16:25 2019 +0100
+
+    fin automatisation
+
+commit 090ca1650b2f8b6b5127b3b1944266f4845aab46
+Author: DuncanBlareau <47028947+DuncanBlareau@users.noreply.github.com>
+Date:   Fri Mar 8 11:12:17 2019 +0100
+
+    Add files via upload
+
+commit f467e9e63702f3fa99004406dd3bb7b4272f56ec
+Author: Diane Montiel <dmontiel@emi.u-bordeaux1.fr>
+Date:   Tue Mar 5 15:09:21 2019 +0100
+
+    automatisation butterfly
+
+commit 3c13caae53ad2e726bab1d8598eadada100c498e
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Thu Feb 21 01:42:22 2019 +0100
+
+    Add files via upload
+
+commit 25d1a9055a773122efc090794d796c839da65fd7
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Fri Feb 15 12:19:35 2019 +0100
+
+    Create PourDucan
+
+commit 3fd1fd9c6c5769cede595ff42d987ad9c14b68cb
+Author: SoloSquad <35772228+SoloSquad@users.noreply.github.com>
+Date:   Fri Feb 15 11:16:12 2019 +0100
+
+    Add files via upload
+
+commit 4f1b428d28ca8a950fe197ccac55961e987125a0
+Author: DrMetalCore <33600797+DrMetalCore@users.noreply.github.com>
+Date:   Thu Feb 7 17:22:19 2019 +0100
+
+    First upload
+
+commit fb4db6cb6d4357f71aabaf3f3c11ee08e1ceb094
+Author: DrMetalCore <33600797+DrMetalCore@users.noreply.github.com>
+Date:   Thu Feb 7 17:21:38 2019 +0100
+
+    First upload
+
+commit dcfefb29b0bdd04afad52548a42aac4bea49d6db
+Author: DrMetalCore <33600797+DrMetalCore@users.noreply.github.com>
+Date:   Thu Feb 7 17:20:34 2019 +0100
+
+    First upload
+
+commit 9f16c749e49afcb4c3ef36d17ef0e5d10bff2fb4
+Author: DrMetalCore <33600797+DrMetalCore@users.noreply.github.com>
+Date:   Thu Feb 7 17:20:12 2019 +0100
+
+    Fist upload
