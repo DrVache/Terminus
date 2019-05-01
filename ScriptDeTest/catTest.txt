@@ -1,0 +1,2 @@
+This script is use to test the command cat
+Hope it will work
